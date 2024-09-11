@@ -1,0 +1,16 @@
+Student_ID,Student_Name,Technical_Languages,Technical_Performance,Hours_Studied,Marks,Previous_Marks,Attendance,CGPA
+21001,Aarav,"Python, C++",Good,10,85,80,85,8.5
+21002,Vihaan,"Java, Python",Excellent,20,90,85,90,9.0
+21003,Vivaan,"C, C++",Average,15,78,75,88,8.2
+21004,Aditya,"Ruby, Java",Good,12,82,78,80,8.7
+21005,Sai,"Python, Ruby",Excellent,25,92,90,92,9.1
+21006,Ishaan,"C++, Java",Average,18,76,70,75,7.8
+21007,Kabir,"Python, C",Good,22,88,85,85,8.8
+21008,Arjun,"C++, Ruby",Excellent,14,95,90,90,9.2
+21009,Anaya,"Java, C++",Good,17,81,80,84,8.4
+210010,Dhruv,"Python, Java",Excellent,19,89,85,87,8.9
+210011,Aanya,"Ruby, C",Average,16,77,70,78,7.9
+210012,Krishna,"C++, Python",Good,21,83,75,82,8.6
+210013,Manvi,"Java, Ruby",Excellent,23,91,88,91,9.0
+210014,Meera,"Python, C++",Good,13,80,78,79,8.3
+210015,Rhea,"Java, C",Average,24,84,82,86,8.7
