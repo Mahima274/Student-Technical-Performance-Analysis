@@ -46,5 +46,6 @@ Other key findings and trends
 Contact
 Developed by Mahima
 GitHub: https://github.com/Mahima274
+Email:lilamahimakumariakula@gmail.com
 
 Thank you for checking out my project!
